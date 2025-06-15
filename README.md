@@ -1,2 +1,0 @@
-# alu-shell
-Inconclusive
